@@ -10,5 +10,5 @@ fastapi
 uvicorn[standard]
 python-multipart
 jinja2
-Flask
+flask
 #-e .
